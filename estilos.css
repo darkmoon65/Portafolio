@@ -1,0 +1,41 @@
+.containerColor{
+    height: 100%;
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', monospace;
+}
+
+.item-tecnologia{
+    padding: 20px;
+}
+
+.estilo-icono{
+    width: 100px;
+    height: 100px;
+    color: yellow;
+}
+.relleno{
+    margin-top: 100px;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.centrar{
+    text-align: center;
+}
+
+.back-color{
+    background-color: black;
+    color: #E1E1E1;
+}
+
+.left-elements{
+    left: auto !important;
+    right: 0px;
+}
+.banner{
+    font-size: 11;
+    font-family: Georgia, serif;
+}
